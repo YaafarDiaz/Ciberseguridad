@@ -20,8 +20,8 @@ Permite ejecutar comandos de administración y transferencia de archivos en ento
 
 - **-U:** Especifica el usuario.  
 
-        `smbclient -U <usuario> <objetivo>`  
+        smbclient -U <usuario> <objetivo>  
 
 - **-L:** Lista los recursos compartidos en el servidor.  
 
-        `smbclient -U <usuario> -L <objetivo>`  
+        smbclient -U <usuario> -L <objetivo>  
