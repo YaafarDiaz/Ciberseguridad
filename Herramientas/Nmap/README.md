@@ -3,7 +3,7 @@ Herramienta de código abierto utilizada para la exploración y auditoría de re
 
 ## Opciones:
 
-- **-p: ** Se utiliza para especificar los puertos que se desean escanear.
+- **-p: ** Se utiliza para especificar los puertos que se desean escanear.  
   **Ejemplo:**
                 `nmap -p 80,443,22 <objetivo>`
                 `nmap -p- <objetivo> (Escanea todos los puertos disponibles '65 535')`
