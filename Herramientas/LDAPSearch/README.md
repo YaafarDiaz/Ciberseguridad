@@ -4,7 +4,7 @@ Se utiliza para realizar consultas a un servidor LDAP (Lightweight Directory Acc
 
 ## Sintaxis básica de un comando ldapsearch:  
 
-                `ldapsearch -x -H ldap://<servidor_ldap> -b 'DC=Dominio,DC=Sub-dominio'`  
+`ldapsearch -x -H ldap://<servidor_ldap> -b 'DC=Dominio,DC=Sub-dominio'`  
 
 - **-x:** Usa una autenticación simple (en lugar de SASL).
 
