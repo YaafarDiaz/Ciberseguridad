@@ -26,4 +26,4 @@ Herramienta de código abierto que se utiliza principalmente para realizar enume
 
 ## Ejemplo:
 
-        enum4linux -a -u <usuario> -p <contrasena> <objetico> 
+        enum4linux -a -u <usuario> -p <contrasena> <objetivo> 
