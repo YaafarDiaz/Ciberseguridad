@@ -5,8 +5,8 @@ Herramienta de código abierto utilizada para la exploración y auditoría de re
 
 - **-p: ** Se utiliza para especificar los puertos que se desean escanear.
 **Ejemplo:**
-                nmap -p 80,443,22 <objetivo>
-                nmap -p- <objetivo> (Escanea todos los puertos disponibles '65 535')
+                `nmap -p 80,443,22 <objetivo>`
+                `nmap -p- <objetivo> (Escanea todos los puertos disponibles '65 535')`
 
 - **-sS:** Envía paquetes SYN al destino para verificar si el puerto está abierto, pero no completa la conexión TCP. Es conocido como un "Escaneo sigiloso" porque no e>
 **Ejemplo:**
