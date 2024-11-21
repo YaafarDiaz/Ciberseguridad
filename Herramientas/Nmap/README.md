@@ -1,6 +1,6 @@
 [![Nmap](https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png "Nmap")](http:/https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png/ "Nmap")  
 # Nmap (Network Mapper)  
-Herramienta de código abierto utilizada para la exploración y auditoría de redes. Fue diseñada para descubrir hosts y servicios en una red, así como para realizar anál>
+Herramienta de código abierto utilizada principalmente para la exploración de redes y auditorías de seguridad. Permite a los usuarios descubrir dispositivos y servicios en una red, identificar puertos abiertos y determinar qué sistemas operativos y versiones están en uso.   
 
 ## Opciones:
 
